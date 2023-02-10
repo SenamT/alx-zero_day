@@ -1,3 +1,0 @@
-
-*Emphasize* _Hello_
-
